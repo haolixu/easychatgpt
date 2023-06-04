@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66722822076",
+    "project_id": "chatapp-b6fb8",
+    "storage_bucket": "chatapp-b6fb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66722822076:android:e381dc1e848763ae8a9db9",
+        "android_client_info": {
+          "package_name": "com.lixu666.easychatgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66722822076-v3r8ncvn0d16mglfhtir8gi7h3aoqre2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizyBSCOoLFbVqB2JNEo2smI_yfY9Bho0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66722822076-v3r8ncvn0d16mglfhtir8gi7h3aoqre2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

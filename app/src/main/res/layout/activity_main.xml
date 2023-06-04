@@ -6,12 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/recycler_view"
         android:layout_above="@id/bottom_layout"
-        />
+        android:layout_marginBottom="3dp" />
 
     <TextView
         android:id="@+id/welcome_text"
@@ -21,6 +22,8 @@
         android:gravity="center"
         android:text="@string/welcome"
         android:textSize="28dp" />
+
+
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -54,6 +57,14 @@
 
     </RelativeLayout>
 
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/ad_view"
+        android:layout_width="338dp"
+        android:layout_height="64dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="87dp"
+        app:adSize="BANNER"
+        app:adUnitId="@string/banner_ad_unit_id" />
 
 
 </RelativeLayout>

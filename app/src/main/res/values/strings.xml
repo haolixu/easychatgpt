@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">智多星</string>
+    <string name="app_name">梨子AI</string>
     <string name="failed_load_response">返回内容失败，原因是 </string>
-    <string name="welcome">欢迎使用智多星</string>
-    <string name="writehere">在这里输入：</string>
-    <string name="hello">你好,智多星!</string>
+    <string name="welcome">欢迎使用AI聊天！</string>
+    <string name="writehere">在这里输入问题：</string>
+    <string name="hello">你好,梨子ai!</string>
     <string name="Typing">正在输出......</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2511250428051852/1910966942</string>
+
 </resources>
